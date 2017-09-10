@@ -7,7 +7,7 @@
 * Cody Sloan (codyhsloan)
 
 ## Check it out
-  <a href="https://drewwmercer.github.io/GoingSomewhere/" target="_blank">click for **Going Somewhere?**</a>
+  <a href="https://drewwmercer.github.io/going-somewhere/" target="_blank">click for **Going Somewhere?**</a>
 
 ## See the data
 https://console.firebase.google.com/u/1/project/project-1-175917/database/data/
