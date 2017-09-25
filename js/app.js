@@ -29,6 +29,9 @@ $(document).ready(function() {
     autoplay: true,
     autoplaySpeed: 3000
   });
+  
+  // Materialize full-width carousel
+  $('.carousel.carousel-slider').carousel({fullWidth: true});
 
   // Search Button
   $(".searchBtn").on("click", function() {
